@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@eslint/js": "^9.8.0",
+    "chai": "^5.1.1",
+    "eslint": "^9.8.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.9.0",
+    "prettier": "^3.3.3",
+    "sinon": "^18.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "bitcoin-core": "^4.2.0",
+    "decimal.js": "^10.4.3",
+    "ethers": "^6.13.2"
+  }
+}
